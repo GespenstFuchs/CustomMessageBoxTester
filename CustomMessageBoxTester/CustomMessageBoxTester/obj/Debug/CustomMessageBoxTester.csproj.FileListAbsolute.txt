@@ -1,0 +1,11 @@
+C:\Users\fugyu\source\repos\CustomMessageBoxTester\CustomMessageBoxTester\bin\Debug\カスタムメッセージボックステスター.exe.config
+C:\Users\fugyu\source\repos\CustomMessageBoxTester\CustomMessageBoxTester\bin\Debug\カスタムメッセージボックステスター.exe
+C:\Users\fugyu\source\repos\CustomMessageBoxTester\CustomMessageBoxTester\bin\Debug\カスタムメッセージボックステスター.pdb
+C:\Users\fugyu\source\repos\CustomMessageBoxTester\CustomMessageBoxTester\obj\Debug\CustomMessageBoxTester.csproj.AssemblyReference.cache
+C:\Users\fugyu\source\repos\CustomMessageBoxTester\CustomMessageBoxTester\obj\Debug\CustomMessageBoxTester.CustomMessageBox.resources
+C:\Users\fugyu\source\repos\CustomMessageBoxTester\CustomMessageBoxTester\obj\Debug\CustomMessageBoxTester.MainForm.resources
+C:\Users\fugyu\source\repos\CustomMessageBoxTester\CustomMessageBoxTester\obj\Debug\CustomMessageBoxTester.Properties.Resources.resources
+C:\Users\fugyu\source\repos\CustomMessageBoxTester\CustomMessageBoxTester\obj\Debug\CustomMessageBoxTester.csproj.GenerateResource.cache
+C:\Users\fugyu\source\repos\CustomMessageBoxTester\CustomMessageBoxTester\obj\Debug\CustomMessageBoxTester.csproj.CoreCompileInputs.cache
+C:\Users\fugyu\source\repos\CustomMessageBoxTester\CustomMessageBoxTester\obj\Debug\カスタムメッセージボックステスター.exe
+C:\Users\fugyu\source\repos\CustomMessageBoxTester\CustomMessageBoxTester\obj\Debug\カスタムメッセージボックステスター.pdb

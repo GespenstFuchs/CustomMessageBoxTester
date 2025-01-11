@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fugyu\\source\\repos\\CustomMessageBoxTester\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{737B895B-712A-46F5-BBB6-3A4CB935DF3F}|CustomMessageBoxTester\\CustomMessageBoxTester.csproj|C:\\Users\\fugyu\\source\\repos\\CustomMessageBoxTester\\custommessageboxtester\\custommessagebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{737B895B-712A-46F5-BBB6-3A4CB935DF3F}|CustomMessageBoxTester\\CustomMessageBoxTester.csproj|solutionrelative:custommessageboxtester\\custommessagebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|CustomMessageBoxTester||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{737B895B-712A-46F5-BBB6-3A4CB935DF3F}|CustomMessageBoxTester\\CustomMessageBoxTester.csproj|c:\\users\\fugyu\\source\\repos\\custommessageboxtester\\custommessageboxtester\\custommessagebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{737B895B-712A-46F5-BBB6-3A4CB935DF3F}|CustomMessageBoxTester\\CustomMessageBoxTester.csproj|solutionrelative:custommessageboxtester\\custommessagebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{737B895B-712A-46F5-BBB6-3A4CB935DF3F}|CustomMessageBoxTester\\CustomMessageBoxTester.csproj|C:\\Users\\fugyu\\source\\repos\\CustomMessageBoxTester\\custommessageboxtester\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{737B895B-712A-46F5-BBB6-3A4CB935DF3F}|CustomMessageBoxTester\\CustomMessageBoxTester.csproj|solutionrelative:custommessageboxtester\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{737B895B-712A-46F5-BBB6-3A4CB935DF3F}|CustomMessageBoxTester\\CustomMessageBoxTester.csproj|C:\\Users\\fugyu\\source\\repos\\CustomMessageBoxTester\\custommessageboxtester\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{737B895B-712A-46F5-BBB6-3A4CB935DF3F}|CustomMessageBoxTester\\CustomMessageBoxTester.csproj|solutionrelative:custommessageboxtester\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{737B895B-712A-46F5-BBB6-3A4CB935DF3F}|CustomMessageBoxTester\\CustomMessageBoxTester.csproj|c:\\users\\fugyu\\source\\repos\\custommessageboxtester\\custommessageboxtester\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomMessageBoxTester",
+              "DocumentMoniker": "C:\\Users\\fugyu\\source\\repos\\CustomMessageBoxTester\\CustomMessageBoxTester\\CustomMessageBoxTester.csproj",
+              "RelativeDocumentMoniker": "CustomMessageBoxTester\\CustomMessageBoxTester.csproj",
+              "ToolTip": "C:\\Users\\fugyu\\source\\repos\\CustomMessageBoxTester\\CustomMessageBoxTester\\CustomMessageBoxTester.csproj",
+              "RelativeToolTip": "CustomMessageBoxTester\\CustomMessageBoxTester.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-28T06:24:26.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomMessageBox.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "DocumentMoniker": "C:\\Users\\fugyu\\source\\repos\\CustomMessageBoxTester\\CustomMessageBoxTester\\CustomMessageBox.cs",
+              "RelativeDocumentMoniker": "CustomMessageBoxTester\\CustomMessageBox.cs",
+              "ToolTip": "C:\\Users\\fugyu\\source\\repos\\CustomMessageBoxTester\\CustomMessageBoxTester\\CustomMessageBox.cs [\u30C7\u30B6\u30A4\u30F3]*",
+              "RelativeToolTip": "CustomMessageBoxTester\\CustomMessageBox.cs [\u30C7\u30B6\u30A4\u30F3]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T05:04:39.196Z",
+              "EditorCaption": " [\u30C7\u30B6\u30A4\u30F3]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomMessageBox.cs",
+              "DocumentMoniker": "C:\\Users\\fugyu\\source\\repos\\CustomMessageBoxTester\\CustomMessageBoxTester\\CustomMessageBox.cs",
+              "RelativeDocumentMoniker": "CustomMessageBoxTester\\CustomMessageBox.cs",
+              "ToolTip": "C:\\Users\\fugyu\\source\\repos\\CustomMessageBoxTester\\CustomMessageBoxTester\\CustomMessageBox.cs*",
+              "RelativeToolTip": "CustomMessageBoxTester\\CustomMessageBox.cs*",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAADYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T01:52:27.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\fugyu\\source\\repos\\CustomMessageBoxTester\\CustomMessageBoxTester\\MainForm.cs",
+              "RelativeDocumentMoniker": "CustomMessageBoxTester\\MainForm.cs",
+              "ToolTip": "C:\\Users\\fugyu\\source\\repos\\CustomMessageBoxTester\\CustomMessageBoxTester\\MainForm.cs",
+              "RelativeToolTip": "CustomMessageBoxTester\\MainForm.cs",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAhwI4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T01:52:39.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "DocumentMoniker": "C:\\Users\\fugyu\\source\\repos\\CustomMessageBoxTester\\CustomMessageBoxTester\\MainForm.cs",
+              "RelativeDocumentMoniker": "CustomMessageBoxTester\\MainForm.cs",
+              "ToolTip": "C:\\Users\\fugyu\\source\\repos\\CustomMessageBoxTester\\CustomMessageBoxTester\\MainForm.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "RelativeToolTip": "CustomMessageBoxTester\\MainForm.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T01:04:25.301Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
